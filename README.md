@@ -1,9 +1,6 @@
-## Hi there 👋
+## Chamam-me Domingas Denise Francisco Gomes tenho 23 anos,sou natural da Imgombotas província de Luanda-Angola.Conclui o meu ensino Médio de Informática no Instituto Politécnico Dom Damião Franklin e também a frenquentar o ensino Superior no curso de Engenharia Informática pela Universidade Metodista de Angola.Trabalhadora pelo MININT,Desenvolvedora web e designer.Sou apaixonada por tecnologia e matemática,partilho o meu conhecimento na área que eu gosto.  👋
 
 <!--
-**DDomingas/DDomingas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
