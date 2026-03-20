@@ -1,4 +1,4 @@
-## Chamam-me Domingas Denise Francisco Gomes tenho 23 anos,sou natural da Imgombotas província de Luanda-Angola.Conclui o meu ensino Médio de Informática no Instituto Politécnico Dom Damião Franklin e também a frenquentar o ensino Superior no curso de Engenharia Informática pela Universidade Metodista de Angola.Trabalhadora pelo MININT,Desenvolvedora web e designer.Sou apaixonada por tecnologia e matemática,partilho o meu conhecimento na área que eu gosto.  👋
+## Chamam-me Domingas Denise Francisco Gomes tenho ..anos,sou natural da Imgombotas província de Luanda-Angola.Conclui o meu ensino Médio de Informática no Instituto Politécnico Dom Damião Franklin e também a frenquentar o ensino Superior no curso de Engenharia Informática pela Universidade Metodista de Angola.Trabalhadora pelo MININT,Desenvolvedora web e designer.Sou apaixonada por tecnologia e matemática,partilho o meu conhecimento na área que eu gosto.  👋
 
 <!--
 
