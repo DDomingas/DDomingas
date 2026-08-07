@@ -1,4 +1,5 @@
-## Chamam-me Domingas Denise Francisco Gomes tenho ..anos,sou natural da Imgombotas província de Luanda-Angola..  👋
+## Chamam-me Domingas Denise Francisco Gomes
+Luanda-Angola
 
 <!--
 
